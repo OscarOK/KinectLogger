@@ -14,6 +14,11 @@ All the screens for game interaction
 
 ![reflex_ridge_bad](Reflex Ridge/reflex_ridge_bad.png)
 
+[reflex_ridge]: (Reflex Ridge/reflex_ridge.png)
+[reflex_ridge_good]: (Reflex Ridge/reflex_ridge_good.png)
+[reflex_ridge_inhibition]: (Reflex Ridge/reflex_ridge_inhibition.png)
+[reflex_ridge_bad]: (Reflex Ridge/reflex_ridge_bad.png)
+
 ---
 
 ## River Rush
@@ -27,3 +32,9 @@ All the screens for game interaction
 ![river_rush_bad](River Rush/river_rush_bad.png)
 
 ![river_rush_cloud](River Rush/river_rush_cloud.png)
+
+[river_rush]: (River Rush/river_rush.png)
+[river_rush_good]: (River Rush/river_rush_good.png)
+[river_rush_inhibition]: (River Rush/river_rush_inhibition.png)
+[river_rush_bad]: (River Rush/river_rush_bad.png)
+[river_rush_cloud]: (River Rush/river_rush_cloud.png)
