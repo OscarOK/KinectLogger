@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="132.59398mm"
+   height="88.39566mm"
+   viewBox="0 0 132.59398 88.39566"
+   version="1.1"
+   id="svg1297"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="happy_cloud.svg">
+  <defs
+     id="defs1291" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-208.00011"
+     inkscape:cy="61.332649"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1294">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.048244,-76.665273)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path880"
+       d="m 107.34497,76.665273 c -15.966528,0 -29.833418,9.06016 -36.739358,22.31957 -16.629508,1.767917 -29.557368,15.856217 -29.557368,32.927717 0,18.28693 14.86143,33.14837 33.148358,33.14837 h 71.821978 c 15.24833,0 27.62365,-12.37532 27.62365,-27.62364 0,-14.58535 -11.3255,-26.40854 -25.63462,-27.403 C 144.19553,90.973893 127.45508,76.665273 107.34497,76.665273 Z M 94.557122,114.11673 a 4.2333339,4.2333339 0 0 1 4.23333,4.23334 4.2333339,4.2333339 0 0 1 -4.23333,4.23334 4.2333339,4.2333339 0 0 1 -4.23334,-4.23334 4.2333339,4.2333339 0 0 1 4.23334,-4.23334 z m 26.193748,0 a 4.2333341,4.2333341 0 0 1 4.23334,4.23334 4.2333341,4.2333341 0 0 1 -4.23334,4.23334 4.2333341,4.2333341 0 0 1 -4.23333,-4.23334 4.2333341,4.2333341 0 0 1 4.23333,-4.23334 z m -30.308228,21.21939 c 3.234,5.0046 8.68106,8.3983 14.571208,9.07749 7.55835,0.87206 15.10674,-2.69176 19.23345,-9.07749 l 3.55586,2.29754 c -4.49395,6.95404 -12.34269,11.14247 -20.5326,11.14247 -0.91149,0 -1.82622,-0.0515 -2.74196,-0.1571 -7.133158,-0.82285 -13.728118,-4.92933 -17.641298,-10.98537 z"
+       style="fill:#000000;stroke-width:5.52475262"
+       inkscape:export-filename="C:\Users\Oscar Eduardo\Desktop\RIVER RUSH\happy_cloud.png"
+       inkscape:export-xdpi="287.34442"
+       inkscape:export-ydpi="287.34442" />
+  </g>
+</svg>

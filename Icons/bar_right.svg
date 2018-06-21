@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="44.126591mm"
+   height="89.582886mm"
+   viewBox="0 0 44.126591 89.582886"
+   version="1.1"
+   id="svg2606"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="bar_right.svg">
+  <defs
+     id="defs2600" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-354.86844"
+     inkscape:cy="105.00472"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2603">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-79.907155,-87.032945)">
+    <g
+       transform="matrix(5.5109258,0,0,5.5109258,-272.20618,-1406.7095)"
+       id="g1940"
+       inkscape:export-xdpi="1562.5475"
+       inkscape:export-ydpi="1562.5475">
+      <path
+         sodipodi:nodetypes="ssccccsssssss"
+         inkscape:connector-curvature="0"
+         id="rect1873"
+         d="m 69.089592,271.05109 c -0.313883,0 -0.566375,0.25302 -0.566375,0.5669 v 4.79196 c 1.131457,0.76245 1.622476,2.69068 1.369425,4.14443 -0.160701,0.65121 -1.2814,0.67526 -1.295304,-0.0306 0.04123,-0.60374 0.03448,-1.03602 -0.07412,-1.77581 v 7.98852 c 0,0.31387 0.252492,0.56689 0.566375,0.56689 h 2.244823 c 0.313883,0 0.566375,-0.25302 0.566375,-0.56689 v -15.11845 c 0,-0.31388 -0.252492,-0.5669 -0.566375,-0.5669 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04563183;stroke-miterlimit:4;stroke-dasharray:none" />
+      <g
+         inkscape:export-ydpi="1792.8973"
+         inkscape:export-xdpi="1792.8973"
+         transform="matrix(-0.26458333,0,0,0.26458333,73.970723,273.13958)"
+         id="g1845">
+        <g
+           id="g1787">
+          <g
+             id="g1785">
+            <circle
+               style="fill:#010002"
+               cx="26.686001"
+               cy="4.507"
+               r="4.507"
+               id="circle1781" />
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#010002"
+               d="m 28.256,11.163 c -1.123,-0.228 -2.344,-0.218 -3.447,0.042 -7.493,0.878 -9.926,9.551 -9.239,16.164 0.298,2.859 4.805,2.889 4.504,0 -0.25,-2.41 -0.143,-6.047 1.138,-8.632 0,3.142 0,6.284 0,9.425 0,0.111 0.011,0.215 0.016,0.322 -0.003,0.051 -0.015,0.094 -0.015,0.146 0,7.479 -0.013,14.955 -0.322,22.428 -0.137,3.322 5.014,3.309 5.15,0 0.242,-5.857 0.303,-11.717 0.317,-17.578 0.244,0.016 0.488,0.016 0.732,0.002 0.015,5.861 0.074,11.721 0.314,17.576 0.137,3.309 5.288,3.322 5.15,0 -0.309,-7.473 -0.32,-14.949 -0.32,-22.428 0,-0.232 -0.031,-0.443 -0.078,-0.646 -0.007,-3.247 -0.131,-6.497 -0.093,-9.742 1.534,2.597 1.674,6.558 1.408,9.125 -0.302,2.887 4.206,2.858 4.504,0 0.703,-6.75 -1.847,-15.648 -9.719,-16.204 z"
+               id="path1783" />
+          </g>
+        </g>
+        <g
+           id="g1789" />
+        <g
+           id="g1791" />
+        <g
+           id="g1793" />
+        <g
+           id="g1795" />
+        <g
+           id="g1797" />
+        <g
+           id="g1799" />
+        <g
+           id="g1801" />
+        <g
+           id="g1803" />
+        <g
+           id="g1805" />
+        <g
+           id="g1807" />
+        <g
+           id="g1809" />
+        <g
+           id="g1811" />
+        <g
+           id="g1813" />
+        <g
+           id="g1815" />
+        <g
+           id="g1817" />
+      </g>
+    </g>
+  </g>
+</svg>
